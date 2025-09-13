@@ -20,4 +20,4 @@
 // console.log(__filename);
 
 // no access to DOM methods
-// console.log(document.querySelector);
+ console.log(document.querySelector);
